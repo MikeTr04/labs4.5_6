@@ -1,0 +1,305 @@
+
+You are on lecture #1 Series:
+Series lesson!
+Materials in this lesson:
+
+1: Series Study
+2: Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 1
+A study on series.
+Congratulations! You learned knowledge Series
+
+
+You are on lecture #1 Series:
+Series lesson!
+Materials in this lesson:
+
+1: Series Study
+2: Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 2
+A task on series
+Congratulations! You learned practical Series
+
+
+You are on lecture #1 Series:
+Series lesson!
+Materials in this lesson:
+
+1: Series Study
+2: Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> Back
+Cannot go back.
+
+
+You are on lecture #1 Series:
+Series lesson!
+Materials in this lesson:
+
+1: Series Study
+2: Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> Forward
+
+
+You are on lecture #2 Functional Series:
+Functional series lesson!
+Materials in this lesson:
+
+1: Functional series Study
+2: Functional Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 2
+A task on functional series
+You do not know Functional series to complete this task.
+
+
+You are on lecture #2 Functional Series:
+Functional series lesson!
+Materials in this lesson:
+
+1: Functional series Study
+2: Functional Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 1
+A study on functional series.
+Congratulations! You learned knowledge Functional series
+
+
+You are on lecture #2 Functional Series:
+Functional series lesson!
+Materials in this lesson:
+
+1: Functional series Study
+2: Functional Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> Forward
+
+
+You are on lecture #3 Series test lesson:
+Series Test Time!!! Get Ready!!!!
+Materials in this lesson:
+
+1: Series Test
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 1
+A test on series and functional series
+You are not ready for the test! Go back and learn everything!
+
+
+You are on lecture #3 Series test lesson:
+Series Test Time!!! Get Ready!!!!
+Materials in this lesson:
+
+1: Series Test
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> Back
+
+
+You are on lecture #2 Functional Series:
+Functional series lesson!
+Materials in this lesson:
+
+1: Functional series Study
+2: Functional Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 1
+A study on functional series.
+Congratulations! You learned knowledge Functional series
+
+
+You are on lecture #2 Functional Series:
+Functional series lesson!
+Materials in this lesson:
+
+1: Functional series Study
+2: Functional Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 2
+A task on functional series
+Congratulations! You learned practical Functional series
+
+
+You are on lecture #2 Functional Series:
+Functional series lesson!
+Materials in this lesson:
+
+1: Functional series Study
+2: Functional Series Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> Forward
+
+
+You are on lecture #3 Series test lesson:
+Series Test Time!!! Get Ready!!!!
+Materials in this lesson:
+
+1: Series Test
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 1
+A test on series and functional series
+Great job! You successfully passed the test! Continue learning to pass the course!
+
+
+You are on lecture #3 Series test lesson:
+Series Test Time!!! Get Ready!!!!
+Materials in this lesson:
+
+1: Series Test
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> Forward
+
+
+You are on lecture #4 Multiple Integrals Lesson:
+A lesson on multiple integrals
+Materials in this lesson:
+
+1: Multiple Integrals Study
+2: Multiple Integrals Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 1
+A study on multiple integrals.
+Congratulations! You learned knowledge Multiple integrals
+
+
+You are on lecture #4 Multiple Integrals Lesson:
+A lesson on multiple integrals
+Materials in this lesson:
+
+1: Multiple Integrals Study
+2: Multiple Integrals Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 2
+A task on multiple integrals.
+Congratulations! You learned practical Multiple integrals
+
+
+You are on lecture #4 Multiple Integrals Lesson:
+A lesson on multiple integrals
+Materials in this lesson:
+
+1: Multiple Integrals Study
+2: Multiple Integrals Task
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> Forward
+
+
+You are on lecture #5 Exam time:
+The time has come for the exam. Good luck!
+Materials in this lesson:
+
+1: Calculus exam
+
+Commands available:
+Drop Out
+Back
+Forward
+Knowledge
+Or select a material from the list by typing its number
+> 1
+The final exam on calculus.
+You successfully passed the course!!🎉🎉🎉🎉🎉 You can have your deserved chill!
