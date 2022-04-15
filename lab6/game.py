@@ -45,7 +45,7 @@ class Lesson:
 
 class Material:
     """Represents a Task, Test, Exam, or Study."""
-    def __init__(self, name, description):
+    def __init__(self, name: str, description: str):
         """A material has a name and description.
         Can be initialized by name and description."""
         self.__name = name
@@ -72,7 +72,7 @@ class Material:
 
 class Task(Material):
     """Task class."""
-    def __init__(self, name, knowledge, description):
+    def __init__(self, name: str, knowledge, description: str):
         """A task uses the Material __init__ function and also includes the
         knowledge attribute. Knowledge represents the knowledge that the
         student needs to have to solve this task."""
@@ -91,7 +91,7 @@ class Task(Material):
 
 class Test(Task):
     """Test class."""
-    def __init__(self, name, knowledge, description, practice):
+    def __init__(self, name: str, knowledge, description: str, practice: list):
         """A test uses the Task __init__ function and also includes the
         practice attribute. Practice represents the practical knowledge
         that the student needs to have to solve this test."""
@@ -138,7 +138,7 @@ class Exam(Test):
 
 class Study(Material):
     """Study class."""
-    def __init__(self, name, description, knowledge):
+    def __init__(self, name: str, description: str, knowledge: list):
         """Study uses the Material __init__ function and also includes the
         knowledge attribute. Knowledge represents the knowledge that the
         student will learn after doing this study."""

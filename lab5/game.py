@@ -13,45 +13,45 @@ class Room:
     neighbors as a map with 4 keys corresponding to
     directions (north, east, south, west) and their
     values None."""
-    self._name = name
-    self._description = None
-    self._link = None
-    self._character = None
-    self._item = None
-    self._neighbors = {"north": None, "east" : None, "south" : None, "west" : None}
+    self.__name = name
+    self.__description = None
+    self.__link = None
+    self.__character = None
+    self.__item = None
+    self.__neighbors = {"north": None, "east" : None, "south" : None, "west" : None}
   
   def set_description(self, description):
     """Setter for the description."""
-    self._description = description
+    self.__description = description
   
   def get_details(self):
     """Getter for the description."""
-    print(self._description)
+    print(self.__description)
     
   def link_room(self, room, direction):
     """Adds a value to a key in neighbors by direction."""
-    self._neighbors[direction] = room
+    self.__neighbors[direction] = room
   
   def set_character(self, character):
     """Sets character in the room."""
-    self._character = character
+    self.__character = character
     
   def get_character(self):
     """Getter for the character in the room."""
-    return self._character
+    return self.__character
   
   def set_item(self, item):
     """Setter for the item in the room."""
-    self._item = item
+    self.__item = item
     
   def get_item(self):
     """Getter for the item in the room."""
-    return self._item
+    return self.__item
   
   def move(self, direction):
     """Returns the neighboring room in the direction."""
-    if self._neighbors[direction] is not None:
-      return self._neighbors[direction]
+    if self.__neighbors[direction] is not None:
+      return self.__neighbors[direction]
     else:
       print("No neighbors for direction")
       return self
@@ -63,27 +63,27 @@ class Enemy:
     """Initializes an enemy by name and description,
     as well as weakness, conversation as None and defeated_cnt
     as score."""
-    self._name = name
-    self._description = description
-    self._weakness = None
-    self._conversation = None
-    self._defeated_cnt = score
+    self.__name = name
+    self.__description = description
+    self.__weakness = None
+    self.__conversation = None
+    self.__defeated_cnt = score
   
   def set_weakness(self, weakness):
     """Setter for the weakness."""
-    self._weakness = weakness
+    self.__weakness = weakness
   
   def set_conversation(self, conversation):
     """Setter for the conversation."""
-    self._conversation = conversation
+    self.__conversation = conversation
   
   def talk(self):
     """Prints conversation."""
-    print(self._conversation)
+    print(self.__conversation)
   
   def describe(self):
     """Prints conversation."""
-    print(self._description)
+    print(self.__description)
   
   def fight(self, item):
     """
@@ -102,7 +102,7 @@ class Enemy:
     >>> enemy.fight("book")
     True
     """
-    if self._weakness == item:
+    if self.__weakness == item:
       global score
       score += 1
       return True
@@ -112,7 +112,7 @@ class Enemy:
     """Gets the current score of defeated enemies
     and returns it."""
     self._defeated_cnt = score
-    return self._defeated_cnt
+    return self.__defeated_cnt
 
 
 class Ally:
@@ -120,39 +120,39 @@ class Ally:
   def __init__(self, name, description):
     """Initializes an ally with name and description,
     and conversation as None."""
-    self._name = name
-    self._description = description
-    self._conversation = None
+    self.__name = name
+    self.__description = description
+    self.__conversation = None
   
   def set_conversation(self, conversation):
     """Setter for the conversation."""
-    self._conversation = conversation
+    self.__conversation = conversation
   
   def talk(self):
     """Prints the conversation"""
-    print(self._conversation)
+    print(self.__conversation)
   
   def describe(self):
     """Prints the description."""
-    print(self._description)
+    print(self.__description)
 
     
 class Item:
   """Item class"""
   def __init__(self, name):
     """Initializes the item by name, and description as None."""
-    self._name = name
-    self._description = None
+    self.__name = name
+    self.__description = None
   
   def get_name(self):
     """Getter for the name of the item."""
-    return self._name
+    return self.__name
   
   def set_description(self, description):
     """Setter for the description of the item."""
-    self._description = description
+    self.__description = description
   
   def describe(self):
     """Prints the description."""
-    print(self._description)
+    print(self.__description)
   
