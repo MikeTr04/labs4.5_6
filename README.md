@@ -8,7 +8,7 @@ but they almost did not impact the flow of the game.
 
 ## lab6
 
-Lab 6 is about completing the Calculus course in a university.
+Lab 6 is about completing the Calculus course at a university.
 
 The player (student) needs to pass the exam to complete the course.
 In this game there are the following classes:
